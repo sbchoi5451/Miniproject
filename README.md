@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/SAEMMM"><img src="https://avatars.githubusercontent.com/u/127721029?v=4" width="100px;" alt=""/><br /><sub><b>FE 리더 : 신샘</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 최성빈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/sbchoi5451"><img src="https://avatars.githubusercontent.com/u/128361874?v=4" width="100px;" alt=""/><br /><sub><b>FE 팀원 : 최성빈</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
